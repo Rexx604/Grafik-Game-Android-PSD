@@ -1,0 +1,92 @@
+==================================================
+      RINGKASAN STATISTIK DATA GAME ANDROID      
+==================================================
+
+Total Sampel Data Game : 1730 game
+Rata-rata Total Ratings Keseluruhan : 1064331.92
+Rating Tertinggi di Dataset        : 4
+Rating Terendah di Dataset         : 2
+
+--------------------------------------------------
+      DAFTAR TOP 10 GAME ANDROID TERPOPULER       
+--------------------------------------------------
+1. Garena Free Fire- World Series
+   - Total Ratings   : 86,273,129
+   - Jumlah Installs  : 500.0 M
+   - Average Rating  : 4/5
+   - Growth 30 Days  : 2.1%
+   - Growth 60 Days  : 6.9%
+   - Kategori        : GAME ACTION
+
+2. Clash of Clans
+   - Total Ratings   : 55,766,763
+   - Jumlah Installs  : 500.0 M
+   - Average Rating  : 4/5
+   - Growth 30 Days  : 0.3%
+   - Growth 60 Days  : 1.0%
+   - Kategori        : GAME STRATEGY
+
+3. PUBG MOBILE - Traverse
+   - Total Ratings   : 37,276,732
+   - Jumlah Installs  : 500.0 M
+   - Average Rating  : 4/5
+   - Growth 30 Days  : 1.8%
+   - Growth 60 Days  : 3.6%
+   - Kategori        : GAME ACTION
+
+4. Subway Surfers
+   - Total Ratings   : 35,665,901
+   - Jumlah Installs  : 1000.0 M
+   - Average Rating  : 4/5
+   - Growth 30 Days  : 0.5%
+   - Growth 60 Days  : 1.0%
+   - Kategori        : GAME ARCADE
+
+5. Candy Crush Saga
+   - Total Ratings   : 31,367,945
+   - Jumlah Installs  : 1000.0 M
+   - Average Rating  : 4/5
+   - Growth 30 Days  : 0.9%
+   - Growth 60 Days  : 1.6%
+   - Kategori        : GAME CASUAL
+
+6. Clash Royale
+   - Total Ratings   : 30,852,360
+   - Jumlah Installs  : 100.0 M
+   - Average Rating  : 4/5
+   - Growth 30 Days  : 0.4%
+   - Growth 60 Days  : 0.8%
+   - Kategori        : GAME STRATEGY
+
+7. Mobile Legends: Bang Bang
+   - Total Ratings   : 26,663,595
+   - Jumlah Installs  : 100.0 M
+   - Average Rating  : 4/5
+   - Growth 30 Days  : 1.5%
+   - Growth 60 Days  : 3.2%
+   - Kategori        : GAME ACTION
+
+8. Roblox
+   - Total Ratings   : 21,820,451
+   - Jumlah Installs  : 100.0 M
+   - Average Rating  : 4/5
+   - Growth 30 Days  : 2.6%
+   - Growth 60 Days  : 5.7%
+   - Kategori        : GAME ADVENTURE
+
+9. 8 Ball Pool
+   - Total Ratings   : 21,632,735
+   - Jumlah Installs  : 500.0 M
+   - Average Rating  : 4/5
+   - Growth 30 Days  : 1.2%
+   - Growth 60 Days  : 630.8%
+   - Kategori        : GAME SPORTS
+
+10. Brawl Stars
+   - Total Ratings   : 17,971,552
+   - Jumlah Installs  : 100.0 M
+   - Average Rating  : 4/5
+   - Growth 30 Days  : 1.4%
+   - Growth 60 Days  : 4.4%
+   - Kategori        : GAME ACTION
+
