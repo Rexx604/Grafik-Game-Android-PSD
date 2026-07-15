@@ -1,7 +1,7 @@
 PANDUAN PROYEK AKHIR - PENGANTAR SAINS DATA
 ===========================================
 
-Judul   : Game paling banyak di install
+Judul   : Game paling banyak di install android
 Nama    : Muhammad Ma'sum Hadi
 NIM     : 25.11.6451
 
